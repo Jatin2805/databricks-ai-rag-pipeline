@@ -1,0 +1,9 @@
+Company Knowledge Base — Product Overview
+
+The company's primary product is a cloud-based analytics platform designed for teams that need dashboards, data exploration, and automated reporting.
+
+The platform supports role-based access control. Administrators can create workspaces, invite users, assign roles, and control access to shared resources.
+
+Users can create dashboards from connected data sources and schedule reports for authorized recipients. Available features can depend on the customer's subscription plan.
+
+The platform is designed for browser-based use. Customers should consult the current product documentation for supported browsers, integrations, and feature availability because these can change over time.

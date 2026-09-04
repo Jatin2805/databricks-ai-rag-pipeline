@@ -1,0 +1,9 @@
+Company Knowledge Base — Troubleshooting Guide
+
+If a user cannot sign in, first verify that the correct account email is being used and that the service is not reporting an outage. Users should not repeatedly guess passwords.
+
+If dashboards load slowly, check the browser connection, refresh the session, and determine whether the issue affects one dashboard or the entire workspace. Large queries can also increase load time.
+
+If scheduled reports are not delivered, verify that the schedule is enabled, the recipient addresses are correct, and the recipients still have permission to access the report.
+
+If the issue continues, contact support with the approximate time of the problem, affected workspace, and relevant error message. Do not include passwords or secret tokens.

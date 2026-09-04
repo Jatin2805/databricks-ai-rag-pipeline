@@ -1,0 +1,9 @@
+Company Knowledge Base — Data Privacy Policy
+
+Personal data should be collected only for legitimate business purposes and handled according to applicable privacy requirements.
+
+Employees should access personal information only when their role requires it. Personal data should not be copied into personal devices, public documents, or unapproved external services.
+
+When sharing information externally, employees must verify the recipient and confirm that the transfer is authorized.
+
+Security incidents involving personal or confidential data should be reported promptly through the approved incident-response process. Employees should preserve relevant evidence and avoid making unauthorized changes to affected systems.

@@ -1,0 +1,9 @@
+Company Knowledge Base — Account Management
+
+Administrators can invite users from the account administration area. Each user should receive only the permissions necessary for their role.
+
+When an employee leaves a team, administrators should deactivate the user's access promptly. Shared credentials should not be used as a substitute for individual accounts.
+
+Organizations should periodically review user roles and remove access that is no longer required.
+
+If an administrator cannot access the account-management area, they should contact support through the approved support channel and provide the organization's account identifier without sharing passwords or authentication codes.

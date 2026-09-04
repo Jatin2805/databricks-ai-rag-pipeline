@@ -1,0 +1,9 @@
+Company Knowledge Base — Access Control Policy
+
+Access to company systems follows the principle of least privilege. Users should receive only the permissions required to perform their responsibilities.
+
+Managers and system owners are responsible for reviewing access when roles change. Access should be removed promptly when it is no longer required.
+
+Administrative privileges should be limited to authorized personnel. Shared administrator accounts should be avoided because they reduce accountability.
+
+Access reviews should consider both human users and service accounts. API keys and service credentials must be stored using approved secret-management mechanisms.

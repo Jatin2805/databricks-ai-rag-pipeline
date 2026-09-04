@@ -1,0 +1,9 @@
+Company Knowledge Base — Subscription Plans
+
+The Standard plan is intended for small teams and includes core dashboards, scheduled reports, and basic collaboration features.
+
+The Professional plan adds advanced access controls, higher usage limits, and additional automation capabilities.
+
+The Enterprise plan is intended for organizations with larger deployments and can include custom security requirements, advanced administration, and dedicated support.
+
+Exact prices and usage limits are maintained separately from this knowledge base because commercial terms can change. Customers should use the current pricing information provided by the sales or billing team before making a purchase decision.
